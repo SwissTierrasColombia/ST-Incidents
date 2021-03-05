@@ -2,7 +2,7 @@
 name: Reportar bug
 about: Formato para reportar un bug en el sistema de transición
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
