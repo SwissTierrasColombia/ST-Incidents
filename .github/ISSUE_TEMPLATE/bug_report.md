@@ -7,7 +7,10 @@ assignees: ''
 
 ---
 
-**Descripción del BUG**
+**Entidad**
+Nombre de la Entidad desde la cual se solicita el requerimiento. Ejemplo: IGAC, SNR, ANT, etc,.
+
+**Descripción del bug**
 Una descripción clara y concisa de cuál es el error.
 
 **¿Cómo simular el error?**
