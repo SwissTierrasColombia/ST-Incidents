@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Entidad de la solicitud**
+**Entidad**
 Nombre de la Entidad desde la cual se solicita el requerimiento. Ejemplo: IGAC, SNR, ANT, etc,.
 
 **Prioridad**
