@@ -1,6 +1,6 @@
 ---
 name: Solicitud de requerimiento
-about: Formato para realizar una solicitud de requerimiento
+about: Formato para realizar una solicitud de requerimiento en el sistema de transición.
 title: ''
 labels: enhancement
 assignees: ''
