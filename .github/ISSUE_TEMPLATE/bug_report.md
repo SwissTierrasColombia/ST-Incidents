@@ -1,27 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Reportar bug
+about: Formato para reportar un bug en el sistema de transición
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descripción del BUG**
+Una descripción clara y concisa de cuál es el error.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
+**¿Cómo simular el error?**
+Pasos para reproducir el error:
+1. Ir a '...'
+2. Click en '....'
 3. Scroll down to '....'
-4. See error
+4. Ver error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamiento esperado**
+Una descripción clara y concisa de lo que esperaba que sucediera.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
-**Additional context**
-Add any other context about the problem here.
+**Información adicional**
+Agregue cualquier otra información relevante sobre el problema aquí.
